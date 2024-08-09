@@ -36,23 +36,23 @@ def stream_markup_timer(_, vidid, chat_id, played, dur):
         
        bar = "👻▰▱▱▱▱▱▱▱▰"
     elif 10 < umm < 20:
-        bar = "▰Ⓘ︎▱▱▱▱▱▱▱▰"
+        bar = "▰💖▱▱▱▱▱▱▱▰"
     elif 20 <= umm < 30:
-        bar = "▰▱Ⓢ︎▱▱▱▱▱▱▰"
+        bar = "▰▱❤️‍🩹▱▱▱▱▱▱▰"
     elif 30 <= umm < 40:
-        bar = "▰▱▱Ⓣ︎▱▱▱▱▱▰"
+        bar = "▰▱▱Ⓡ︎▱▱▱▱▱▰"
     elif 40 <= umm < 50:
-        bar = "▰▱▱▱Ⓚ︎▱▱▱▱▰"
+        bar = "▰▱▱▱Ⓘ︎▱▱▱▱▰"
     elif 50 <= umm < 60:
-        bar = "▰▱▱▱▱Ⓗ︎▱▱▱▰"
+        bar = "▰▱▱▱▱Ⓢ︎▱▱▱▰"
     elif 60 <= umm < 70:
-        bar = "▰▱▱▱▱▱Ⓐ︎▱▱▰"
+        bar = "▰▱▱▱▱▱Ⓗ︎▱▱▰"
     elif 70 <= umm < 80:
-        bar = "▰▱▱▱▱▱▱Ⓡ︎▱▰"
+        bar = "▰▱▱▱▱▱▱Ⓤ︎▱▰"
     elif 80 <= umm < 95:
-        bar = "▰Ⓘ︎Ⓢ︎Ⓣ︎Ⓚ︎Ⓗ︎Ⓐ︎Ⓡ︎▰"
+        bar = "▰▱▰Ⓡ︎Ⓘ︎Ⓢ︎Ⓗ︎Ⓤ︎▰▱▰"
     else:
-        bar = "▰▱Ⓟ︎Ⓤ︎Ⓡ︎Ⓥ︎Ⓘ︎▱▰"
+        bar = "▰▱▱Ⓡ︎Ⓘ︎Ⓢ︎Ⓗ︎Ⓤ︎▰▱▰"
     buttons = [
          [
             InlineKeyboardButton(
@@ -69,10 +69,10 @@ def stream_markup_timer(_, vidid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="⛦ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/lll_ISTKHAR_ll"
+                text="⛦ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/Rishu1286"
             ),
             InlineKeyboardButton(
-                text="⛦ ᴄʜᴀᴛ ❥", url=f"https://t.me/+4cgcV3Q_2CI2YjNl"
+                text="⛦ ᴄʜᴀᴛ ❥", url=f"https://t.me/Ur_rishu_143"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -91,10 +91,10 @@ def stream_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="⛦ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/lll_ISTKHAR_ll"
+                text="⛦ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/Rishu1286"
             ),
             InlineKeyboardButton(
-                text="⛦ ᴄʜᴀᴛ ❥", url=f"https://t.me/+4cgcV3Q_2CI2YjNl"
+                text="⛦ ᴄʜᴀᴛ ❥", url=f"https://t.me/Ur_rishu_143"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -246,10 +246,10 @@ def stream_markup2(_, chat_id):
         ],
 [
             InlineKeyboardButton(
-                text="⛦ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/Aniket_1243"
+                text="⛦ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/Rishu1286"
             ),
             InlineKeyboardButton(
-                text="⛦ ᴄʜᴀᴛ ❥", url=f"https://t.me/AniketAbout"
+                text="⛦ ᴄʜᴀᴛ ❥", url=f"https://t.me/Ur_rishu_143"
             ),
         ],
 
