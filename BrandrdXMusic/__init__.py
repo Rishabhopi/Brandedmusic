@@ -28,4 +28,4 @@ Telegram = TeleAPI()
 YouTube = YouTubeAPI()
 YTB = YTM()
 
-APP = "BRANDED_KUDI_BOT"  # connect music api key "Dont change it"
+APP = "VIP_MUSIC_VC_BOT"  # connect music api key "Dont change it"
